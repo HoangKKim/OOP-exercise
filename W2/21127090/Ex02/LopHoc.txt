@@ -1,0 +1,16 @@
+5
+Ngu Phuoc Tai
+0123456789
+3.3
+Tran Huy Bang
+0987654321
+5.3
+Phan Thanh An
+1234567897
+6.8
+Vo Nguyen Hoanh Kim
+0796614918
+8.5
+Le Anh Thu
+12345663211
+8.9
